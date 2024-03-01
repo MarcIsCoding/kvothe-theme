@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "displayName": "Kvothe Theme Official",
   "description": "A theme by Marc Garside, inspired by Wes Bos' Cobalt2 theme. This is the official version of the Kvothe theme for Visual Studio Code.",
-  "publisher": "MarcIsCoding",
+  "publisher": "MarcGarside",
   "icon": "images/logo.png",
   "repository": {
     "type": "git",
