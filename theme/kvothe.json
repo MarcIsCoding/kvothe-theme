@@ -28,7 +28,8 @@
     // activityBar
     "activityBar.background": "#06182d",
     "activityBar.border": "#061628",
-    "activityBar.foreground": "#fff",
+    "activityBar.activeBorder": "#75f9aa",
+    "activityBar.foreground": "#aaaaaa",
     "activityBarBadge.background": "#75f9aa",
     "activityBarBadge.foreground": "#000",
     // badge
@@ -72,16 +73,16 @@
     // When you hover over something and a popup shows, this highlights that thing
     "editor.hoverHighlightBackground": "#75f9aa33",
     // when you have something selected, but have lost focus on the editor
-    "editor.inactiveSelectionBackground": "#75f9aa23",
+    "editor.inactiveSelectionBackground": "#1477f874",
     // current line styles
-    "editor.lineHighlightBackground": "#75f9aa24",
-    "editor.lineHighlightBorder": "#75f9aa25",
+    "editor.lineHighlightBackground": "#0d3b62",
+    "editor.lineHighlightBorder": "#1477F8",
     "editor.rangeHighlightBackground": "#75f9aa33",
     // selected Text colours
     // This is the standard Select colour
-    "editor.selectionBackground": "#245136",
+    "editor.selectionBackground": "#1477F888",
     // This is the colour of the other matching elements
-    "editor.selectionHighlightBackground": "#245136cc",
+    "editor.selectionHighlightBackground": "#1477F866",
     // if you tab away you can colour it differently, but ill leave this one out
     // "editor.inactiveSelectionBackground": "",
     // Word Highlights! This happens when you move your cursor inside a variable
@@ -90,7 +91,7 @@
     // and this one is the rest of them
     "editor.wordHighlightBackground": "#ffffff21",
     "editorBracketMatch.background": "#061628",
-    "editorBracketMatch.border": "#75f9aa80",
+    "editorBracketMatch.border": "#75f9aa88",
     "editorCodeLens.foreground": "#aaa",
     "editorCursor.foreground": "#75f9aa",
     "editorCursor.background": "#0a3a62",
@@ -238,6 +239,7 @@
     "statusBar.debuggingBorder": "#75f9aa",
     "statusBar.debuggingForeground": "#75f9aa",
     "statusBar.foreground": "#aaa",
+    "statusBarItem.hoverForeground": "#75f9aa",
     "statusBar.noFolderBackground": "#051324",
     "statusBar.noFolderBorder": "#061628",
     "statusBar.noFolderForeground": "#aaa",
