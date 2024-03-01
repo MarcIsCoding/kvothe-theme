@@ -19,7 +19,7 @@ Inspired by the deep contrasts and vibrant hues of the [PowerLevel10K Theme](htt
 
 ```js
 {
-  "workbench.colorTheme": "Kvothe",
+	"workbench.colorTheme": "Kvothe",
 	"editor.fontFamily": "Dank Mono, Menlo, Monaco, 'Courier New', monospace",
 	"editor.letterSpacing": 0.5,
 	"editor.cursorStyle": "block",
