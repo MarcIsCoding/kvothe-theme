@@ -1,8 +1,19 @@
 # Kvothe Theme for VS Code
 
+[Install on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MarcGarside.theme-kvothe)
+
+![Preview](https://github.com/MarcIsCoding/kvothe-theme/blob/main/images/ss.png?raw=true)
+
 Basically an experiment to bring my terminal feel to my code editor.
 
 Inspired by the deep contrasts and vibrant hues of the [PowerLevel10K Theme](https://github.com/romkatv/powerlevel10k) for Oh My Zsh and built upon Wes Bos' [Cobalt2 theme](https://github.com/wesbos/cobalt2-vscode) (see included license), the Kvothe theme is a high contrast dark theme for vscode. Featuring a palette that emphasizes dark blues and vivid, high-contrast greens.
+
+## Installation
+
+- Open Extensions sidebar panel in VS Code
+  Search for Kvothe Theme Official
+- Click Install to install it.
+- Code > Preferences > Color Theme > Kvothe
 
 ## Recommended Settings
 
