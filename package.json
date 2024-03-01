@@ -1,0 +1,42 @@
+{
+  "name": "theme-kvothe",
+  "version": "0.0.1",
+  "displayName": "Kvothe Theme Official",
+  "description": "A theme by Marc Garside, inspired by Wes Bos' Cobalt2 theme. This is the official version of the Kvothe theme for Visual Studio Code.",
+  "publisher": "MarcIsCoding",
+  "icon": "images/logo.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MarcIsCoding/kvothe-theme"
+  },
+  "galleryBanner": {
+    "color": "#030c17",
+    "theme": "dark"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "VSCode",
+    "Themes"
+  ],
+  "engines": {
+    "vscode": "^1.15.0"
+  },
+  "scripts": {
+    "bundle": "vsce package",
+    "publish": "vsce publish"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "Kvothe",
+        "uiTheme": "vs-dark",
+        "path": "./theme/kvothe.json"
+      }
+    ]
+  },
+  "devDependencies": {
+    "vsce": "^1.81.1"
+  }
+}
