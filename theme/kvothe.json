@@ -72,16 +72,16 @@
     // When you hover over something and a popup shows, this highlights that thing
     "editor.hoverHighlightBackground": "#75f9aa33",
     // when you have something selected, but have lost focus on the editor
-    "editor.inactiveSelectionBackground": "#003b8bcc",
+    "editor.inactiveSelectionBackground": "#75f9aa23",
     // current line styles
-    "editor.lineHighlightBackground": "#1F4662",
-    "editor.lineHighlightBorder": "#234E6D",
-    "editor.rangeHighlightBackground": "#1F4662cc",
+    "editor.lineHighlightBackground": "#75f9aa24",
+    "editor.lineHighlightBorder": "#75f9aa25",
+    "editor.rangeHighlightBackground": "#75f9aa33",
     // selected Text colours
     // This is the standard Select colour
-    "editor.selectionBackground": "#1b3a61",
+    "editor.selectionBackground": "#245136",
     // This is the colour of the other matching elements
-    "editor.selectionHighlightBackground": "#1b3a6180",
+    "editor.selectionHighlightBackground": "#245136cc",
     // if you tab away you can colour it differently, but ill leave this one out
     // "editor.inactiveSelectionBackground": "",
     // Word Highlights! This happens when you move your cursor inside a variable
@@ -128,7 +128,7 @@
     "editorOverviewRuler.commonContentForeground": "#75f9aa55",
     "editorOverviewRuler.currentContentForeground": "#ee3a4355",
     "editorOverviewRuler.incomingContentForeground": "#3ad90055",
-    "editorRuler.foreground": "#1F4662",
+    "editorRuler.foreground": "#75f9aa33",
     // editorSuggestWidget
     "editorSuggestWidget.background": "#051324",
     "editorSuggestWidget.border": "#051324",
