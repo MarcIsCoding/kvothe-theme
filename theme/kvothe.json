@@ -73,10 +73,10 @@
     // When you hover over something and a popup shows, this highlights that thing
     "editor.hoverHighlightBackground": "#75f9aa33",
     // when you have something selected, but have lost focus on the editor
-    "editor.inactiveSelectionBackground": "#1477f874",
+    "editor.inactiveSelectionBackground": "#0d3b6288",
     // current line styles
     "editor.lineHighlightBackground": "#0d3b62",
-    "editor.lineHighlightBorder": "#1477F8",
+    "editor.lineHighlightBorder": "#1477F833",
     "editor.rangeHighlightBackground": "#75f9aa33",
     // selected Text colours
     // This is the standard Select colour
