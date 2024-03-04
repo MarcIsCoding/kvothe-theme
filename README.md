@@ -1,29 +1,29 @@
 # Kvothe Theme for VS Code
 
-[Install on VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MarcGarside.theme-kvothe)
+[Install from VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=MarcGarside.theme-kvothe)
 
 ![Preview](https://github.com/MarcIsCoding/kvothe-theme/blob/main/images/ss.png?raw=true)
 
-Basically an experiment to bring my terminal feel to my code editor.
+This project is essentially an experiment to transpose the aesthetic of my terminal to my code editor.
 
-Inspired by the deep contrasts and vibrant hues of the [PowerLevel10K Theme](https://github.com/romkatv/powerlevel10k) for Oh My Zsh and built upon Wes Bos' [Cobalt2 theme](https://github.com/wesbos/cobalt2-vscode) (see included license), the Kvothe theme is a high contrast dark theme for vscode. Featuring a palette that emphasizes dark blues and vivid, high-contrast greens.
+Drawing inspiration from the deep contrasts and vibrant hues of the [PowerLevel10K Theme](https://github.com/romkatv/powerlevel10k) for Oh My Zsh, and building on Wes Bos' [Cobalt2 theme](https://github.com/wesbos/cobalt2-vscode) (refer to the included license), the Kvothe theme offers a high-contrast dark theme for VS Code. It features a palette that accentuates dark blues alongside vivid, high-contrast greens.
 
 ## Installation
 
-- Open Extensions sidebar panel in VS Code
-  Search for Kvothe Theme Official
-- Click Install to install it.
-- Code > Preferences > Color Theme > Kvothe
+- Navigate to the Extensions sidebar panel in VS Code.
+- Search for "Kvothe Theme Official."
+- Click "Install" to add it to your editor.
+- Navigate through Code > Preferences > Color Theme > Kvothe to activate it.
 
 ## Recommended Settings
 
-```js
+```json
 {
-	"workbench.colorTheme": "Kvothe",
-	"editor.fontFamily": "Dank Mono, Menlo, Monaco, 'Courier New', monospace",
-	"editor.letterSpacing": 0.5,
-	"editor.cursorStyle": "block",
-	"editor.cursorBlinking": "smooth",
+  "workbench.colorTheme": "Kvothe",
+  "editor.fontFamily": "Dank Mono, Menlo, Monaco, 'Courier New', monospace",
+  "editor.letterSpacing": 0.5,
+  "editor.cursorStyle": "block",
+  "editor.cursorBlinking": "smooth"
 }
 ```
 
@@ -38,10 +38,10 @@ Inspired by the deep contrasts and vibrant hues of the [PowerLevel10K Theme](htt
 
 ## Contributing
 
-Your contributions are welcome! To contribute:
+We welcome your contributions! To do so:
 
 1. Fork and clone this repository.
-2. Make your changes and test them by running `View → Run`, then `Launch Extension`.
-3. Submit a pull request with a detailed description of your changes and screenshots if applicable.
+2. Implement your changes and ensure they're working by selecting `View → Run`, then `Launch Extension`.
+3. Create a pull request with a comprehensive description of your changes, including screenshots if relevant.
 
-Don't be offended if your PR is not accepted. This is a personal project and I'm very particular about the colours and styles I use. Also, it's not a project I'm actively working on, so I may not have time to review PRs.
+Please understand if your PR is not accepted. Given this is a personal project, I have specific preferences for colours and styles. Additionally, as this project is not my primary focus, there may be delays in PR reviews.
